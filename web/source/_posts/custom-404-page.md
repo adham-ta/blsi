@@ -10,7 +10,7 @@ categories: [configuration, feature]
 This starter template includes a custom __404 Not Found__ error page, located at `/source/404.blade.php`. [To preview the 404 page](/404), you can visit `/404` in your browser.
 
 ```html
-<!-- source/404.blade.php -->
+<!-- source/404.bladeyy.php -->
 
 @extends('_layouts.master')
 
